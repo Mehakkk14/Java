@@ -3,7 +3,8 @@ package Methods;
 public class ReturnIsMandatory {
 
         public static void main(String[] args) {
-            System.out.println(ananya(10));
+
+            System.out.println(ananya(3));
         }
 
         public static int ananya(int a) {
