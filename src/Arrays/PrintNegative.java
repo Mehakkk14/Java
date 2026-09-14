@@ -7,14 +7,15 @@ public class PrintNegative {
         Scanner sc = new Scanner(System.in);
         //Myself
 
-//        int[] arr3 = {10,-9,7,-4,34,-2};
-//        for (int i = 0; i< arr3.length; i++){
-//            if (arr3[i]<=0){
-//                System.out.println(arr3[i]+" ");
-//            }
-//        }
+        int[] arr3 = {10,-9,7,-4,34,-2};
+        for (int i = 0; i< arr3.length; i++){
+            if (arr3[i]<=0){
+                System.out.println(arr3[i]+" ");
+            }
+        }
 
         //OR
+
         System.out.println("Enter the array size: ");
         int n = sc.nextInt();
 
