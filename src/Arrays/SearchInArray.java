@@ -18,9 +18,11 @@ public class SearchInArray {
                 break;
             }
 
-            if (found = false){
-                System.out.print("Element not exist");
-            }
+        }
+
+
+        if (found == false){
+            System.out.print("Element not exist");
         }
 
     }
